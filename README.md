@@ -33,7 +33,7 @@ sudo airmon-ng start wlan0
 
 
 ### 2. Create the Rogue Wi-Fi Network
-Set up a fake Wi-Fi network named "Test-Wifi".
+Set up a fake Wi-Fi network named "Wifi-Test".
 
 ```bash
 sudo airbase-ng -e "Test-Wifi" -c 11 wlan0

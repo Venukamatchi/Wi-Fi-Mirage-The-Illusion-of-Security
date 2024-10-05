@@ -87,7 +87,7 @@ Use Wireshark to analyze captured packets. You can start Wireshark in a separate
 ```bash
 wireshark
 ```
-![WhatsApp Image 2024-10-06 at 00 32 28_0704eee3](https://github.com/user-attachments/assets/b6623d0d-7c32-49e4-99a2-1aaf91266a65)
+![WhatsApp Image 2024-10-06 at 01 05 17_f3445aa7](https://github.com/user-attachments/assets/71391832-9629-4e94-bf40-a9dce9c52329)
 
 
 ## 📱 Mobile Connection Screenshot
